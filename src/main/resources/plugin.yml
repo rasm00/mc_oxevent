@@ -1,0 +1,7 @@
+name: OXEvent
+version: '${project.version}'
+main: net.justcoded.mc_ox.OXEvent
+api-version: 1.19
+authors: [ Lumenowaty ]
+description: Plugin allows you to run half-automated OX event.
+website: www.justcoded.net
